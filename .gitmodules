@@ -61,3 +61,4 @@
 [submodule "3-group-standard/GSL"]
 	path = 3-group-standard/GSL
 	url = https://github.com/microsoft/GSL.git
+	branch = main
