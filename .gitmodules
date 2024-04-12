@@ -58,3 +58,8 @@
 	path = 3-group-standard/GSL
 	url = https://github.com/microsoft/GSL.git
 	branch = main
+[submodule "0-group-autotesting/cppunit"]
+	path = 0-group-autotesting/cppunit
+	url = git://anongit.freedesktop.org/git/libreoffice/cppunit
+	branch = master
+
